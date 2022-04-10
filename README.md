@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👉 [React TypeScript Starterkit](https://github.com/ykj-rails/rts-kit)...開発中👨🏼‍💻
+
 <!--
 **ykj-rails/ykj-rails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
